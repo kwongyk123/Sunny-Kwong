@@ -6,7 +6,7 @@ I am a computing major graduate from The Hong Kong Polytechnic University. With 
 
 - 📫 How to reach me  **kmslkch123@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/kwongyk123/Sunny-Kwong/blob/main/Kwong%20Chun%20Him_Resume.pdf)
+- 📄 Know about my experiences [**Resume**](https://github.com/kwongyk123/Sunny-Kwong/blob/main/Kwong%20Chun%20Him_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

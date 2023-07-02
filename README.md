@@ -4,7 +4,7 @@ I am a computing major graduate from The Hong Kong Polytechnic University. With 
 ### Talking about Personal Stuffs: 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **kmslkch123@gmail.com**
+- 📫 How to reach me  **kmslkch123@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://github.com/kwongyk123/Sunny-Kwong/blob/main/Kwong%20Chun%20Him_Resume.pdf)
 
